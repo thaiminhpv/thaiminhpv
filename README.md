@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hi there, I'm [Pham Vu Thai Minh](https://thaiminhpv.github.io/)
 
-<!--
-**thaiminhpv/thaiminhpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a Software Engineering student at FUNiX University
 
-Here are some ideas to get you started:
+- I am interested in Software Development and Engineering as well as Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am happy to connect with recruiters, software engineers, friends, community program leads and anyone who share some of the interests with me!
+
+<details>
+  <summary>:handshake: Connect with me!
+  </summary>
+<br />
+
+- I'm best reached via email: [thaiminhpv@gmail.com](mailto:thaiminhpv@gmail.com)
+- [Facebook](https://www.facebook.com/thaiminhpv/)
+- [My Website](https://thaiminhpv.github.io/)
+- [YouTube](https://www.youtube.com/channel/UCJqTRDGV26X9NLCFAH_5PPA)
+- [LinkedIn](https://www.linkedin.com/in/thaiminhpv/)
+
+</details>
