@@ -11,7 +11,7 @@
   </summary>
 <br />
 
-- I'm best reached via email: [thaiminhpv@gmail.com](mailto:thaiminhpv@gmail.com)
+- [thaiminhpv@gmail.com](mailto:thaiminhpv@gmail.com)
 - [Facebook](https://www.facebook.com/thaiminhpv/)
 - [My Website](https://thaiminhpv.github.io/)
 - [YouTube](https://www.youtube.com/channel/UCJqTRDGV26X9NLCFAH_5PPA)
