@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Pham Vu Thai Minh](https://thaiminhpv.github.io/)
+# 👋 Hi there, I'm [Phạm Vũ Thái Minh](https://thaiminhpv.github.io/)
 
 - I'm a Software Engineering student at FUNiX University
 
