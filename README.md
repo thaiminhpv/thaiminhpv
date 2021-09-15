@@ -10,5 +10,4 @@
 
 - [thaiminhpv@gmail.com](mailto:thaiminhpv@gmail.com)
 - [Facebook](https://www.facebook.com/thaiminhpv/)
-- [YouTube](https://www.youtube.com/channel/UCJqTRDGV26X9NLCFAH_5PPA)
 - [LinkedIn](https://www.linkedin.com/in/thaiminhpv/)
