@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Phạm Vũ Thái Minh](https://thaiminhpv.github.io/)
 
-- I'm a Software Engineering student at FUNiX University
+- I'm a Software Engineering student at FPT University
 
 - I am interested in Software Development and Engineering as well as Artificial Intelligence.
 
