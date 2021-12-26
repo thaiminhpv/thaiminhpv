@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm [Phạm Vũ Thái Minh](https://thaiminhpv.github.io/)
 
-Hi there, I’m Pham Vu Thai Minh 👋
-
 - I am 18 years old, as a final-year student at FPT University. I have studied
   at the University since I was 16. My interests are software development and
   machine learning.
