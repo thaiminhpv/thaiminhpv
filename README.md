@@ -14,7 +14,7 @@ Hi there, I’m Pham Vu Thai Minh 👋
   Hackathon 2021 and FPT Edu Hackathon 2019. Although I had to compete against
   other older competitors, I still received awards.
 
-- I am looking for internship opportunities in the field of Machine Learning.
+- I am currently looking for **internship opportunities** in the field of Machine Learning.
 
 # Connect with me!
 
