@@ -6,13 +6,15 @@
 
 - I love solving problems and building software that impacts people around me.
   I took part in some projects for communities by contributing to some
-  non-profit organizations, namely ASAP Project and The 80% Project.
+  non-profit organizations, namely ASAP Project (about psychology) and The 80%
+  Project (about equality).
 
 - Additionally, I have participated in several competitions, such as FPT Edu
   Hackathon 2021 and FPT Edu Hackathon 2019. Although I had to compete against
   other older competitors, I still received awards.
 
-- I am currently looking for **internship opportunities** in the field of Machine Learning.
+- I am currently looking for **internship opportunities** in the field of Machine
+  Learning.
 
 # Connect with me!
 
