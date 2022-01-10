@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Phạm Vũ Thái Minh](https://thaiminhpv.github.io/)
+# 👋 Hi there, I'm [Phạm Vũ Thái Minh](https://thaiminhpv.tech/)
 
 - I am 18 years old, as a final-year student at FPT University. I have studied
   at the University since I was 16. My interests are software development and
@@ -18,12 +18,12 @@
 
 # Connect with me!
 
-- [Email - thaiminhpv@gmail.com](mailto:thaiminhpv@gmail.com)
+- Email: [thaiminhpv@gmail.com](mailto:thaiminhpv@gmail.com) or [contact@thaiminhpv.tech](mailto:contact@thaiminhpv.tech)
 - [Facebook](https://www.facebook.com/thaiminhpv/)
 - [LinkedIn](https://www.linkedin.com/in/thaiminhpv/)
 
 For detailed information about me, you can view my
 [CV](https://drive.google.com/file/d/1YbKL2X5OES5zRw0TDXDypgwqJW0PWqa2/view) or
-[my website](https://thaiminhpv.github.io/)
+[my website](https://thaiminhpv.tech/)
 
 ![Minh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaiminhpv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=stars,issues)
