@@ -5,7 +5,7 @@
 
 - I love solving problems and building software that impacts people around me.
   I have contributed to some non-profit organizations and communities such as ASAP Project (about psychology), 80%
-  Project (about equality), Developh Vietnam, Japanese Software Engineers Club (teaching), and AWS Academy (lecturer assistant).
+  Project (about equality), Developh Vietnam, Japanese Software Engineers Club (teaching), and AWS Academy (educator).
 
 - Additionally, I have participated in several competitions, such as FPT Edu
   Hackathon 2021 and FPT Edu Hackathon 2019. I have received awards against many older competitors.
