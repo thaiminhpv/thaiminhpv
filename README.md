@@ -21,5 +21,3 @@
 For detailed information about me, you can view my
 [resume](https://drive.google.com/file/d/1YbKL2X5OES5zRw0TDXDypgwqJW0PWqa2/view) or
 [my website](https://thaiminhpv.tech/)
-
-![Minh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaiminhpv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=stars,issues)
