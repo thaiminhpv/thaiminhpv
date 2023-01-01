@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Phạm Vũ Thái Minh](https://thaiminhpv.tech/)
 
-- I am 19 years old, as a final-year student at FPT University. I have studied
+- I am a final-year student at FPT University. I have studied
   at the University since I was 16. My interests are machine learning and software development.
 
 - I love solving problems and building software that impacts people around me.
