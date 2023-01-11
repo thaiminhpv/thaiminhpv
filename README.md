@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Phạm Vũ Thái Minh](https://thaiminhpv.tech/)
+# 👋 Hi there, I'm [Phạm Vũ Thái Minh](https://thaiminhpv.github.io/)
 
 - I am a final-year student at FPT University. I have studied
   at the University since I was 16. My interests are machine learning and software development.
@@ -20,4 +20,4 @@
 
 For detailed information about me, you can view my
 [resume](https://drive.google.com/file/d/1YbKL2X5OES5zRw0TDXDypgwqJW0PWqa2/view) or
-[my website](https://thaiminhpv.tech/)
+[my website](https://thaiminhpv.github.io/)
