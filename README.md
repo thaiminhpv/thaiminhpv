@@ -10,8 +10,6 @@
 - Additionally, I have participated in several competitions, such as FPT Edu
   Hackathon 2021 and FPT Edu Hackathon 2019. I have received awards against many older competitors.
 
-- I am currently looking for _**job opportunities**_ in the field of AI.
-
 # Connect with me!
 
 - [thaiminhpv@gmail.com](mailto:thaiminhpv@gmail.com)
